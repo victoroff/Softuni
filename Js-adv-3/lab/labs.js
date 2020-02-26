@@ -216,4 +216,51 @@ function sortArray(array){
     }
 }
 
-sortArray([7, -2, 8, 9]);
+//sortArray([7, -2, 8, 9]);
+
+//4.	Last K Numbers Sequence
+function generateKSequence(n,k){
+    let sequence = [1];
+    for (let i = 0; i < n; i++) {
+        // sum k elements for next number in the sequence
+        let sum = 0;
+        for (let j = i - k; j < i + k; j++) {
+            if (sequence[j]) {
+                sum += sequence[j];
+            }
+        }
+        sequence[i] = sum;
+    }
+    console.log(sequence);
+}
+
+//generateKSequence(6,3);
+
+
+//5.	Process Odd Numbers
+function ProcessOddNumber(numbers){
+    let dblNumbers = [];
+
+    for (let i = numbers.length - 1; i >= 0 ; i--) {
+        if (i % 2 === 0) {
+            continue;
+        }
+        
+        let processedNum = Number(numbers[i]) * 2;
+        dblNumbers.push(processedNum);
+
+    }
+    console.log(dblNumbers);
+}
+
+
+//[10, 15, 20, 25]	50 30		[3, 0, 10, 4, 7, 3]	6 8 0
+//ProcessOddNumber([10, 15, 20, 25]);
+
+//6.	Smallest Two Numbers
+function printSmallestTwoNumbers(numbers){
+ 
+    console.log(smallestNums);
+}
+
+printSmallestTwoNumbers([3, 0, 10, 4, 7, 3]);
