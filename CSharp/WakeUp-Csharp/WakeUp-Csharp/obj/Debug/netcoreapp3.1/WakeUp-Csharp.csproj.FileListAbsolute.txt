@@ -1,0 +1,20 @@
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\WakeUp-Csharp.csprojAssemblyReference.cache
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\WakeUp-Csharp.AssemblyInfoInputs.cache
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\WakeUp-Csharp.AssemblyInfo.cs
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\WakeUp-Csharp.csproj.CoreCompileInputs.cache
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.exe
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.deps.json
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.runtimeconfig.json
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.runtimeconfig.dev.json
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.pdb
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\WakeUp-Csharp.csproj.CopyComplete
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\DBADV - FetchingResults.dll
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\DBADV - FetchingResults.pdb
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\WakeUp-Csharp.genruntimeconfig.cache

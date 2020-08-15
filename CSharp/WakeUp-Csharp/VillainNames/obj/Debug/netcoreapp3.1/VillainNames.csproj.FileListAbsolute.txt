@@ -1,0 +1,9 @@
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\VillainNames\bin\Debug\netcoreapp3.1\VillainNames.exe
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.csprojAssemblyReference.cache
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.AssemblyInfoInputs.cache
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.AssemblyInfo.cs
+C:\Users\l.victorov\source\repos\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.csproj.CoreCompileInputs.cache
+D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.csprojAssemblyReference.cache
+D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.AssemblyInfoInputs.cache
+D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.AssemblyInfo.cs
+D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\VillainNames\obj\Debug\netcoreapp3.1\VillainNames.csproj.CoreCompileInputs.cache
