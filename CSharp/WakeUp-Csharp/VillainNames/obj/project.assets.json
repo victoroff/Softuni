@@ -130,6 +130,19 @@
             "rid": "win"
           }
         }
+      },
+      "DBADV - FetchingResults/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "system.data.sqlclient": "4.8.1"
+        },
+        "compile": {
+          "bin/placeholder/DBADV - FetchingResults.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DBADV - FetchingResults.dll": {}
+        }
       }
     }
   },
@@ -446,10 +459,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "DBADV - FetchingResults/1.0.0": {
+      "type": "project",
+      "path": "../WakeUp-Csharp/InitialSetup.csproj",
+      "msbuildProject": "../WakeUp-Csharp/InitialSetup.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "DBADV - FetchingResults >= 1.0.0",
       "System.Data.SqlClient >= 4.8.2"
     ]
   },
@@ -478,7 +497,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\WakeUp-Csharp\\InitialSetup.csproj": {
+              "projectPath": "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\WakeUp-Csharp\\InitialSetup.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
