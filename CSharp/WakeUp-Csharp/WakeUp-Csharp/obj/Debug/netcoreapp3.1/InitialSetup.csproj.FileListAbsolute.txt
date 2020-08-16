@@ -38,3 +38,23 @@ D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcor
 D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\DBADV - FetchingResults.dll
 D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\DBADV - FetchingResults.pdb
 D:\Customers\Softuni\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.genruntimeconfig.cache
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.exe
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.deps.json
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.runtimeconfig.json
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.runtimeconfig.dev.json
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\DBADV - FetchingResults.pdb
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.csprojAssemblyReference.cache
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.AssemblyInfoInputs.cache
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.AssemblyInfo.cs
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.csproj.CoreCompileInputs.cache
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.csproj.CopyComplete
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\DBADV - FetchingResults.dll
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\DBADV - FetchingResults.pdb
+C:\Users\lyubo\Source\Repos\Softuni\CSharp\WakeUp-Csharp\WakeUp-Csharp\obj\Debug\netcoreapp3.1\InitialSetup.genruntimeconfig.cache

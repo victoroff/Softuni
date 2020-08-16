@@ -473,19 +473,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\l.victorov\\.nuget\\packages\\": {}
+    "C:\\Users\\lyubo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\VillainNames\\VillainNames.csproj",
+      "projectUniqueName": "C:\\Users\\lyubo\\Source\\Repos\\Softuni\\CSharp\\WakeUp-Csharp\\VillainNames\\VillainNames.csproj",
       "projectName": "VillainNames",
-      "projectPath": "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\VillainNames\\VillainNames.csproj",
-      "packagesPath": "C:\\Users\\l.victorov\\.nuget\\packages\\",
-      "outputPath": "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\VillainNames\\obj\\",
+      "projectPath": "C:\\Users\\lyubo\\Source\\Repos\\Softuni\\CSharp\\WakeUp-Csharp\\VillainNames\\VillainNames.csproj",
+      "packagesPath": "C:\\Users\\lyubo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lyubo\\Source\\Repos\\Softuni\\CSharp\\WakeUp-Csharp\\VillainNames\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\l.victorov\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\lyubo\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -498,8 +498,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\WakeUp-Csharp\\InitialSetup.csproj": {
-              "projectPath": "D:\\Customers\\Softuni\\Softuni\\CSharp\\WakeUp-Csharp\\WakeUp-Csharp\\InitialSetup.csproj"
+            "C:\\Users\\lyubo\\Source\\Repos\\Softuni\\CSharp\\WakeUp-Csharp\\WakeUp-Csharp\\InitialSetup.csproj": {
+              "projectPath": "C:\\Users\\lyubo\\Source\\Repos\\Softuni\\CSharp\\WakeUp-Csharp\\WakeUp-Csharp\\InitialSetup.csproj"
             }
           }
         }
@@ -528,18 +528,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[3.1.2, 3.1.2]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
